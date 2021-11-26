@@ -1,0 +1,137 @@
+00:10:24	Michael Jordan:	Hello Everyone
+00:11:18	Tek Tay:	G’day, greetings from Canberra Australia
+00:15:00	Robert `Progar:	Hello All good to see/hear you
+00:16:47	Madoka Nakai:	Sean, will you share this slide with us?
+00:31:33	Madoka Nakai:	Which strain of virus will be used in Vanuatu?
+00:33:36	Tek Tay:	Any idea how the CRB got onto New Caledonia and Vanuatu?
+00:36:30	Bob Macfarlane:	If CRB came to New Caledonia by international aircraft do we know where it likely came from?
+00:43:54	Madoka Nakai:	In New Caledonia only CRB-G were invaded, but in Vanuatu only CRB-S were invaded. Is it right?
+00:44:27	Sarah Mansfield:	yes, that is correct Madoka
+00:45:28	Pamela George:	Are you going to share the recording? I have visual but my laptop refuses to allow audio. 
+00:45:38	Kayvan Etebari:	What does it mean to you (AgResearch)?
+00:46:23	Trevor Jackson:	Yes we will share the recording - as for the previous meetiong
+00:46:47	Pamela George:	Thanks Trevor
+00:47:49	Madoka Nakai:	Thanks, Sarah. Is it mean that CRBs were invaded into those two islands from different origins?
+00:48:56	Bob Macfarlane:	Do we know when CRB-G arrived along the N coast of mainland PNG. is it old or new?
+00:48:57	Tek Tay:	Not necessarily Madoka, could be from a location where S and G are co-existing?
+00:49:37	Kayvan Etebari:	@TeK Tay. That is right. Haplotyping by CoxI gene doesn’t tell us anything
+00:51:18	Carmel Pilotti:	can you confirm CRB-G is becoming dominant in PNG?
+00:51:34	Kayvan Etebari:	No
+00:51:39	Sarah Mansfield:	Since we do not know for certain how CRB entered either New Caledonia or Vanuatu, it is not possible to pinpoint the source of these populations.
+00:52:37	Tek Tay:	@Kayvan - ‘No’ for not becoming dominant or you don’t know?
+00:53:09	Tanya Robinson:	Sean, I don’t think either Francis or Luke will be coming
+00:53:39	Kayvan Etebari:	The current CoxI based method is not a reliable diagnostic marker for phenotypic traits, especially in countries such as Solomon Islands or PNG where the haplotypes have come back into sympatry and are admixed.
+00:59:11	Christopher Kitalong:	So what method are people thinking for population genetics?
+01:01:00	Kayvan Etebari:	https://www.sciencedirect.com/science/article/pii/S0168170219308123
+01:02:54	Kayvan Etebari:	CRB-G is native to Philippines and Taiwan and is not a new thing!!
+01:04:54	Michael Melzer:	HI Madoka,  I am discussing with Nelson tomorrow - sorry for the delay!
+01:05:17	Madoka Nakai:	Thanks, Mike. I am waiting for your response!
+01:11:22	Tek Tay:	What are cryptic breeding sites?
+01:11:24	Sheri Smith:	Also, US Forest Service is providing some funding to War in the Pacific National Historical Park on Guam for CRB work.
+01:12:13	Fereti Atumurirava:	Glenn, Where do you get your Metarhizium culture bagging from?
+01:14:03	Fereti Atumurirava:	Glenn,  can you send us the supplier details please for the bag
+01:17:09	Glenn Dulla:	Hi Atu, our metarhizium project starts in the next fiscal year. We have not started anything yet, sorry.
+01:17:27	Madoka Nakai:	Thanks, Sarah, Tek Tay and Kayvan. 
+@ Kayvan What is the better way to diagnose the haplotype in the mix area than CoX1?
+01:20:13	Kayvan Etebari:	@ Madoka What do you want to learn from haplotyping?
+01:20:45	Peter Maddison:	MILT STUNZNER DID SOME TRIALS ON INSECTICIDE INJECTIONS IN 1968 in the SAMOA CRB project
+01:21:12	Mark Ero:	Hi Keith, what volume of insecticide are you injecting per palm?
+01:21:37	Michael Melzer:	Hi Mark, depends on tree DBH
+01:22:05	Tek Tay:	How do you monitor for insecticide resistance in the CRB ?
+01:22:12	Michael Melzer:	We're using Ima Jet 10
+01:22:15	Mark Ero:	Thanks Mike
+01:22:45	Fereti Atumurirava:	Thanks Glenn. Getting the right type of bag for Metarhizium culture is our main constrain now
+01:23:21	Michael Melzer:	Hi Tek, we are considering alternating between imidacloprid and acephate. Both appear to work in the lab.
+01:23:46	Carmel Pilotti:	Atu, any type of polypropylene bag should be ok. I'll talk to you later
+01:24:27	Tek Tay:	Thanks for the information Mike
+01:25:35	Glenn Dulla:	Atu and Carmel, can you send me your methods and materials for culture. It will give us a head start on sourcing materials before the project starts
+01:26:06	Fereti Atumurirava:	Sure Glenn, will do
+01:27:49	Sean Marshall:	Hi Glenn and Atu, Laura Villimizar can also assist with some expertise for this too.
+01:28:02	Madoka Nakai:	@Kayvan, Since the relationship between virus susceptibility and haplotypes has been discussed, we would like to clarify from what host our virus strain was isolated.
+01:28:13	Jacques Idechong:	Aloha Keith, just curious if you folks have any molecular id's for your crb strains..
+01:28:15	Fereti Atumurirava:	We are in desperate need of getting the contact details for Metarhizium mass production
+01:28:43	Fereti Atumurirava:	mass production baggaging
+01:29:27	Kayvan Etebari:	There is no scientific evidence to make a link between CoxI gene and resistance to OrNV
+01:29:56	Madoka Nakai:	@Kayvan I agree with you.
+01:30:06	Christopher Kitalong:	CoxI for population genetics only no?
+01:30:10	Trevor Jackson:	Kayvan - I think we all agree on that point.
+01:30:43	Kayvan Etebari:	I dont think so Tervor. You still using the term CRB-G as invasive
+01:31:12	Kayvan Etebari:	The information out there is misleading the scientific community
+01:31:29	Madoka Nakai:	@Kayvan It is a good point.
+01:31:35	Kayvan Etebari:	It is time to move on from “Introduction”
+01:31:55	Kayvan Etebari:	We need to discuss more important points in these kind of meetings
+01:32:09	Kayvan Etebari:	Everyone here they know what is CRB
+01:32:32	Kayvan Etebari:	But they dont know what is CRB-G!!
+01:33:55	Kayvan Etebari:	Finding CRB-G in 2017 was great deal but now it is time to go forwards
+01:35:21	Kayvan Etebari:	@AgRsearch team Is CRB-G a Haplotype or Biotype?
+01:35:30	Jacques Idechong:	thanks Kayvan for the good point.
+01:36:24	Madoka Nakai:	I'm sure the new haplotype (CRB-G) is invading new areas and killing palms. I want to know what makes the new haplotype different from other haplotypes.
+01:37:07	Kayvan Etebari:	CRB-G in Solomon Island and CRB-G in Philippines are totally different
+01:38:00	Sarah Mansfield:	This new review paper is available with open access from the journal, Annals of the Entomological Society of America.
+01:38:00	Tek Tay:	@Kayvan - what is the evidence for this, are you able to share?
+01:39:23	Madoka Nakai:	Sarah, let me the title.
+01:39:24	Kayvan Etebari:	@Tek, sure, we used the GBS and RNAseq. I will share all our publication with group email
+01:39:34	Darcy Oishi:	Sulav,  I’d enjoy discussing potential collaboration. I am eager to restart exploration for arthropod natural enemies once we can travel again
+01:40:04	Tek Tay:	Thank you kayvan
+01:40:05	Glenn Dulla:	Darcy just wants an excuse to travel....
+01:40:16	Kayvan Etebari:	@ Trevor How do you know?
+01:40:28	Kayvan Etebari:	Are you happy to share the data
+01:40:49	Kayvan Etebari:	It is not true!
+01:41:06	Sulav Paudel:	Here is the link to our paper: https://academic.oup.com/aesa/article/114/2/247/6127283?login=true it is an open access
+01:41:06	Darcy Oishi:	Actually wouldn’t be me doing the travel Glen!  I’d just be bringing my hawaii germs to Guam
+01:41:15	Sarah Mansfield:	https://doi.org/10.1093/aesa/saaa057
+01:41:39	Sarah Mansfield:	Just posted the direct link to the paper
+01:41:41	Kenneth Puliafico:	https://academic.oup.com/aesa/article/114/2/247/6127283
+01:42:02	Kenneth Puliafico:	Link to Paudel's review paper
+01:42:04	Kayvan Etebari:	Based on your report 92% OrNV infection rate in Samoa. What virus is doing there? Chronic infection! Persistence in the popultion!
+01:42:46	Sulav Paudel:	Hi Darcy, sure. That would be great. This is my email: sulav.paudel@agresearch.co.nz We shall discuss
+01:43:35	Darcy Oishi:	Sulav mine is Darcy.e.oishi@hawaii.gov
+01:44:27	Aubrey Moore:	We need comarative bioassays to compare pathogencity of OrNV isolates between CRB-G and CRB-S. Until that is done, we don't know if we are dealing with resistant and suseptible populations.
+01:45:03	Kayvan Etebari:	@ Aubrey do you have CRB-S in Guam?
+01:45:13	Madoka Nakai:	I agree with Aubrey. That is what we also want to examine.
+01:45:47	Christopher Kitalong:	Would like to have a large population study with all partners
+01:45:59	Madoka Nakai:	Nobody done the comparative bioassay. We have been talking about it for 3 years!!
+01:46:01	Kayvan Etebari:	That is right we dont have any data on CRB-S
+01:46:08	Aubrey Moore:	We do not have CRB-S on Guam. 
+01:46:16	Christopher Kitalong:	good to do in rearing facility in Japan
+01:46:29	Christopher Kitalong:	or if available funding do it here in Palau
+01:46:38	Kayvan Etebari:	What is the expected mortality? What is viability rate and PFU of the virus they use for bioassay!
+01:46:47	Christopher Kitalong:	as we don’t worry too much about introduction of either S or G…
+01:46:52	Madoka Nakai:	I hope Chris will bring them to us after getting quarantine parmission.
+01:47:04	Kayvan Etebari:	Funding is not a problem!
+01:47:12	Christopher Kitalong:	it is my problem
+01:47:25	Christopher Kitalong:	as I am the only one working on it here at the moment
+01:47:49	Trevor Jackson:	I agree that we need the comparative bioassays. This has not been easy in these COVID times.  But don't forget to include the pathology.  Presence of virus does not necessarily mean infection.
+01:48:02	Kayvan Etebari:	Happy to help Chris
+01:48:28	Kayvan Etebari:	We have the issue since 2015 and covid is 2020
+01:48:59	Madoka Nakai:	My concern is how to inoculate viruses per on into larvae. If we can establish the method, we can examine the doses.
+01:49:39	Madoka Nakai:	I meant how to inoculate virus from the mouth (per os) to the larvae. It may be the main route of virus infection at the larval stage.
+01:49:43	Kayvan Etebari:	@ Madoka lets talk later
+01:49:50	Madoka Nakai:	Yes
+01:50:51	Christopher Kitalong:	sounds good
+01:51:04	Christopher Kitalong:	any progress on cell line ?
+01:53:07	Christopher Kitalong:	@kayvan, email at ckitalon@gmail.com
+01:53:39	Kenneth Puliafico:	Sarlesh, did you try to combine the Orycta Lure with your new lures?
+01:54:59	Kayvan Etebari:	sure
+01:57:41	Mark Ero:	Yes we did, Kenneth
+01:58:24	Kenneth Puliafico:	Was there any additive effects from combining the standard and new pheromone lures?
+02:05:23	Kenneth Puliafico:	We also find a female bias in our pheromone traps
+02:07:28	Tek Tay:	Question to Lastus - are the OrNV resistance status of CRB at these treated sites known? Are they mixed of G and S?
+02:08:18	Mark Ero:	Kenneth, I thought there was because low numbers were caught in single lure trials.
+02:11:29	Kayvan Etebari:	@Tek the absence of OrNV in CRB-G has been taken as evidence for resistance to virus in the haplotype group.
+02:12:31	Tek Tay:	Thanks Kayvan, I was hoping to find out if the populations were mixed G/S or were they of specific haplotypes
+02:13:20	Kayvan Etebari:	They dilute the DNA 1 to 5000 to detect the virus!! We think the population in PNG is also admixed
+02:14:28	Kayvan Etebari:	This 1 to 5000 dilution of DNA induce false negative result in the PCR
+02:18:00	Sean Marshall:	Kayvan you are cherry picking your points.... with respect to your comment on level of virus detected, when trap catching CRB there is a strong relationship between virus detected and time between clearing of traps.
+02:19:24	Sarah Mansfield:	We also confirm virus infection through histology to check for symptoms of active infection. Our PCR results are extremely well correlated with the histology
+02:20:55	Kayvan Etebari:	Virus infection and disease is two different things! A virus infected individual can be asymptomatic to virus
+02:21:33	Kayvan Etebari:	Can you please provide the evidence for that why we need to dilute dna 1 to 5000??!
+02:25:11	Christopher Kitalong:	If any questions to me please just type sitting in another meeting
+02:28:11	Kayvan Etebari:	Thank you everyone! Looking forward to the next meeting! I hope we will be able to share our data and have a productive discussion.
+02:31:22	Madoka Nakai:	I'd like to formally apologize for meeting you today, but the 2018 Gold Coast SIP review has been delayed. The content is out of date, but I'd like to submit it soon.
+02:32:17	Nutan Kaushik:	iWork botanical  and ENDOPHYTE’s would be very happy to collaborate
+02:32:43	Nutan Kaushik:	My Id nkaushik5@amity.edu
+02:32:45	Sulav Paudel:	@Nutan: Good to see you here!
+02:33:33	Madoka Nakai:	@Sulav It is very good to study on the physiological effect of CRB to the palms
+02:37:39	Christian MILLE:	bye many thanks to all
+02:37:53	Maria Sugiharti:	thank you
